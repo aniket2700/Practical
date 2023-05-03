@@ -1,0 +1,29 @@
+head	1.1;
+access;
+symbols;
+locks
+	aniket:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2023.05.03.07.26.34;	author aniket;	state Exp;
+branches;
+next	;
+
+
+desc
+@first
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<home>
+<head></head>
+<body></body>
+</home>
+@
