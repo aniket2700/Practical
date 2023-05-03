@@ -1,10 +1,15 @@
-head	1.3;
+head	1.4;
 access;
 symbols;
 locks
-	aniket:1.3; strict;
+	aniket:1.4; strict;
 comment	@# @;
 
+
+1.4
+date	2023.05.03.07.37.04;	author aniket;	state Exp;
+branches;
+next	1.3;
 
 1.3
 date	2023.05.03.07.35.26;	author aniket;	state Exp;
@@ -27,9 +32,9 @@ desc
 @
 
 
-1.3
+1.4
 log
-@third
+@fourth
 @
 text
 @<home>
@@ -38,8 +43,18 @@ text
 </head>
 <body>
 <p>P1</p>
+<p>P2</p>
 </body>
 </home>
+@
+
+
+1.3
+log
+@third
+@
+text
+@d7 1
 @
 
 
